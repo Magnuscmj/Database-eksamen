@@ -23,3 +23,6 @@ stilling. Man skal med en enkel spørring kunne finne ut av hvor en soldat tjene
 hvilken stilling han har, alt av personalia skal også være lett tilgjengelig for.
 (Dette er ikke en helt nøyaktig representasjon av hvordan forsvaret er bygd opp m.t.p
 avdelinger og stillinger, det er min egen versjon av en tilnærmet realistisk modell
+
+
+(Karakter B).
