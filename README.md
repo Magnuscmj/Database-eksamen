@@ -8,8 +8,8 @@ igjennom ett eller flere kurs som er påkrevd for stillingen. Alle stillinger kr
 andre 2.
 
 Soldatene skal kurses før de kommer ut i en stilling. De fleste stillinger krever kun et kurs,
-men vi har noen stillinger som krever en større bredde hos soldatene våre før de kan tiltre
-i en stilling. Her blir det viktig at vi får synliggjort på en god måte, hvilke kurs som bygger
+men vi har noen stillinger som krever en større bredde hos soldatene, før de kan tiltre
+stillingen. Her blir det viktig at vi får synliggjort på en god måte, hvilke kurs som bygger
 på et annet kurs.
 
 Det blir viktig og holde styr på hvilke informasjon som skal være hvor i databasen. Dette
